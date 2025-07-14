@@ -3,7 +3,7 @@ import numpy as np
 from sklearn.datasets import load_iris
 from sklearn.tree import DecisionTreeClassifier
 
-# 🚀 Train once per server restart (Iris is tiny, ~2 ms)
+# 🚀 Train once per server restart
 @st.cache_resource
 def build_model():
     iris = load_iris()
