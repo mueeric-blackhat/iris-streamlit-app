@@ -28,9 +28,8 @@ The model was trained in a Jupyter Notebook and deployed using Streamlit Cloud.
 
 ## 🚀 Try the Live App
 
-👉 **Live Demo:** [https://your-username-iris-streamlit-app.streamlit.app](https://your-username-iris-streamlit-app.streamlit.app)  
-_(Replace the link above with your actual Streamlit app URL)_
-
+👉 **Live Demo:**
+(https://iris-app-appgit-nmyn4cuxctkymrncodcrs2.streamlit.app/)
 ---
 
 ## 🛠️ How to Run Locally
@@ -67,17 +66,13 @@ Dataset: load_iris() from Scikit-learn
 
 Metrics Used: Accuracy, Precision, Recall, Classification Report
 
-📚 Requirements
-txt
-Copy
-Edit
+📚 Requirements txt
 streamlit
 scikit-learn
 numpy
-joblib
+
 Install with:
 
 bash
-Copy
-Edit
+
 pip install -r requirements.txt
