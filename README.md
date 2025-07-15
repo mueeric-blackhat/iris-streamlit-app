@@ -24,13 +24,6 @@ The model was trained in a Jupyter Notebook and deployed using Streamlit Cloud.
 | `requirements.txt`    | Python dependencies for the app                  |
 | `README.md`           | Project description and setup instructions       |
 
----
-
-## 🚀 Try the Live App
-
-👉 **Live Demo:**
-(https://iris-app-appgit-nmyn4cuxctkymrncodcrs2.streamlit.app/)
----
 
 ## 🛠️ How to Run Locally
 
