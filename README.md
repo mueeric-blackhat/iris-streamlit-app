@@ -13,6 +13,11 @@ This project applies classical machine learning (Decision Tree Classifier) to th
 The model was trained in a Jupyter Notebook and deployed using Streamlit Cloud.
 
 ---
+live demo link https://iris-app-app.streamlit.app/
+
+![Streamlit Screenshot](screenshot.png)
+
+
 
 ## 📂 Files in This Repository
 
